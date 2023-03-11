@@ -1,4 +1,3 @@
-# DIABETES-PREDICTION-USING-MACHINE-LEARNING
 Diabetes\_Prediction
 
 -----
@@ -9,11 +8,11 @@ Libraries used:-
 -----
 - **Numpy**
 
-![](Aspose.Words.18c1216d-a6e6-4896-9697-df779a856703.001.png)
+![](Aspose.Words.1fd23f18-1eab-436e-8ed7-0b66439486a6.001.png)
 
 **Importing Numpy Library**
 
-![](Aspose.Words.18c1216d-a6e6-4896-9697-df779a856703.002.png)
+![](Aspose.Words.1fd23f18-1eab-436e-8ed7-0b66439486a6.002.png)
 
 **About Numpy**
 
@@ -21,11 +20,11 @@ Numpy is a library for the Python programming language, adding support for large
 
 - **Pandas**
 
-![](Aspose.Words.18c1216d-a6e6-4896-9697-df779a856703.003.png)
+![](Aspose.Words.1fd23f18-1eab-436e-8ed7-0b66439486a6.003.png)
 
 **Importing Pandas Library**
 
-![](Aspose.Words.18c1216d-a6e6-4896-9697-df779a856703.004.png)
+![](Aspose.Words.1fd23f18-1eab-436e-8ed7-0b66439486a6.004.png)
 
 **About Pandas**
 
@@ -33,11 +32,11 @@ Pandas is a Python package providing fast, flexible, and expressive data structu
 
 - **Sklearn**
 
-![](Aspose.Words.18c1216d-a6e6-4896-9697-df779a856703.005.png)
+![](Aspose.Words.1fd23f18-1eab-436e-8ed7-0b66439486a6.005.png)
 
 **Importing Sklearn**
 
-![](Aspose.Words.18c1216d-a6e6-4896-9697-df779a856703.006.png)
+![](Aspose.Words.1fd23f18-1eab-436e-8ed7-0b66439486a6.006.png)
 
 **About Sklearn**
 
@@ -55,7 +54,7 @@ Data Analysis
 -----
 - Based on the number of pregnancies
 
-![](Aspose.Words.18c1216d-a6e6-4896-9697-df779a856703.007.png)
+![](Aspose.Words.1fd23f18-1eab-436e-8ed7-0b66439486a6.007.png)
 
 
 
@@ -63,18 +62,18 @@ Data Analysis
 
 - Based on various health related factors
 
-![](Aspose.Words.18c1216d-a6e6-4896-9697-df779a856703.008.png)
+![](Aspose.Words.1fd23f18-1eab-436e-8ed7-0b66439486a6.008.png)
 
 Model Analysis
 
 -----
 - With an accuracy score of 78.66% on training data and an accuracy of 77.27% on test data, our model will predict whether you are diabetic or not.
 
-![](Aspose.Words.18c1216d-a6e6-4896-9697-df779a856703.009.png)
+![](Aspose.Words.1fd23f18-1eab-436e-8ed7-0b66439486a6.009.png)
 
-![](Aspose.Words.18c1216d-a6e6-4896-9697-df779a856703.010.png)
+![](Aspose.Words.1fd23f18-1eab-436e-8ed7-0b66439486a6.010.png)
 
 
 Know Diabetes, Fight Diabetes-----
 
-![](Aspose.Words.18c1216d-a6e6-4896-9697-df779a856703.011.png)
+![](Aspose.Words.1fd23f18-1eab-436e-8ed7-0b66439486a6.011.png)
