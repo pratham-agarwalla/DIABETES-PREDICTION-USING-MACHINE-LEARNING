@@ -1,7 +1,7 @@
 Diabetes\_Prediction
 
 -----
-The aim of this project is to predict whether a person is diabetic or not using a dataset from kaggle using machine learning.
+The aim of this project is to predict whether a person is diabetic or not using a dataset from Kaggle using Machine Learning.
 
 Libraries used:-
 
